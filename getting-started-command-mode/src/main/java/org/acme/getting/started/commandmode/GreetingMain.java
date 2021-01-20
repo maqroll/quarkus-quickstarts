@@ -5,7 +5,6 @@ import javax.inject.Inject;
 import io.quarkus.runtime.QuarkusApplication;
 import io.quarkus.runtime.annotations.QuarkusMain;
 
-@QuarkusMain
 public class GreetingMain implements QuarkusApplication {
 
     @Inject
